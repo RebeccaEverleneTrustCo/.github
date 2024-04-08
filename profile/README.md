@@ -11,3 +11,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## About Medkids
+Medkids is resource to enable children interested in the field of medicine to effortlessly comprehend 
+what a career in the field of medicine entails.
+
+## Contribution guidelines
+Our tech stack for Medkids is <strong>WordPress</strong>
+
