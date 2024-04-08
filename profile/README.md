@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 **Here are some ideas to get you started:**
 <!--
@@ -16,5 +16,8 @@ Medkids is resource to enable children interested in the field of medicine to ef
 what a career in the field of medicine entails.
 
 ## Contribution guidelines
-Our tech stack for Medkids is <strong>WordPress</strong>
+Our tech stack for Medkids is <strong>WordPress</strong> and custom CSS and JavaScript.
+### How to get started
+Here are stpes to get started contributing to the project
+
 
