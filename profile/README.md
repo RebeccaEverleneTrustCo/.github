@@ -52,3 +52,4 @@ Here are stpes to get started contributing to the project
   - <strong>Approval</strong>: Get approval from team leads before publishing to production.
 ## Moving completed projects from staging to production
 
+WP staging is like our development branch and WP product is like our master branch
