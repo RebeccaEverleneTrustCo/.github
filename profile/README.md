@@ -30,14 +30,14 @@ Here are stpes to get started contributing to the project
   - Only the team lead is allowed to install or uninstall plugins or Themes. Reach out to team lead if you have to add or uninstall a theme or plugin
   - Design your web pages to be responsive for Mobile, Tablet and Desktop.
   - Use Custom `CSS & JS plugin` to write custom CSS and JavaScript.
-  - Write your custom `CSS and JavaScript` in `myTaskName.css` and `myTaskName.js` files. Every JavaScript file you should be witten within the  `DOMContentLoaded` `event`
+  - Write your custom `CSS and JavaScript` in `myTaskName.css` and `myTaskName.js` files (<b>MyTaskName</b> is the name of task you are working. Every JavaScript file you should be witten within the  `DOMContentLoaded` `event`
     Example.
     ```js
           windows.addEventListener('DOMConentLoaded', function(){
             /**
               Add JavaScript here
             ***/
-          const textContent = 'Hello world'
+          const textContent = 'Hello world';
           
         })
 
@@ -46,6 +46,7 @@ Here are stpes to get started contributing to the project
   - For Custom CSS here is how we [class](https://rebeccaeverlenegroup.slack.com/files/U0450DR40FP/F06RNSP1C4B/20240327_124725.mp4?origin_team=T021ALT11NU&origin_channel=C020HQB61PF) elements to add custom styling or select for JavaScript.
   - We follow Block Element Modifier (BEM) convention to give a class name to elements.[Read more on BEM](https://css-tricks.com/bem-101/)
   - Leave a comment within the CSS and JS to show start of code and to document your code.
+  - <b> CSS UNITS: </b> All CSS units should be written in  `rem`, note `1rem = 16px`
   - <strong>Assets</strong>: All Medkids assets are hosted at [MEDKids Image Hosting repository](https://github.com/MEDkids/images) do not host images directly in production or statging WordPress.
   - Name assets exactly the way they are named in Figma file but with `underscore` when uploading to image storage EG `poke ball` becomes `poke_ball`.
   - <strong>Approval</strong>: Get approval from team leads before publishing to production.
