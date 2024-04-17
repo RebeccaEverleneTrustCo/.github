@@ -50,5 +50,5 @@ Here are stpes to get started contributing to the project
   - <strong>Assets</strong>: All Medkids assets are hosted at [MEDKids Image Hosting repository](https://github.com/MEDkids/images) do not host images directly in production or statging WordPress.
   - Name assets exactly the way they are named in Figma file but with `underscore` when uploading to image storage. Use task name as a `prefix` before the asset name EG i am working on a task on <b>Big Energy Body</b>, i should name my file like this <b>Big_Ener_Body_`vector1`</b> `vector1` being the asset name.
   - <strong>Approval</strong>: Get approval from team leads before publishing to production.
-
+## Moving completed projects from staging to production
 
