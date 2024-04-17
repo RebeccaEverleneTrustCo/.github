@@ -30,7 +30,19 @@ Here are stpes to get started contributing to the project
   - Only the team lead is allowed to install or uninstall plugins or Themes. Reach out to team lead if you have to add or uninstall a theme or plugin
   - Design your web pages to be responsive for Mobile, Tablet and Desktop.
   - Use Custom `CSS & JS plugin` to write custom CSS and JavaScript.
-  - Write your custom `CSS and JavaScript` in `medkids.css` and `medkids.js` files.
+  - Write your custom `CSS and JavaScript` in `myTaskName.css` and `myTaskName.js` files. Every JavaScript file you should be witten within the  `DOMContentLoaded` `event`
+    Example.
+    ```js
+          windows.addEventListener('DOMConentLoaded', function(){
+            /**
+              Add JavaScript here
+            ***/
+          const textContent = 'Hello world'
+          
+        })
+
+    ```
+    
   - For Custom CSS here is how we [class](https://rebeccaeverlenegroup.slack.com/files/U0450DR40FP/F06RNSP1C4B/20240327_124725.mp4?origin_team=T021ALT11NU&origin_channel=C020HQB61PF) elements to add custom styling or select for JavaScript.
   - We follow Block Element Modifier (BEM) convention to give a class name to elements.[Read more on BEM](https://css-tricks.com/bem-101/)
   - Leave a comment within the CSS and JS to show start of code and to document your code.
