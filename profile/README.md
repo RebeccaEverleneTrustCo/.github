@@ -33,7 +33,7 @@ Here are stpes to get started contributing to the project
   - Create and write your custom `CSS and JavaScript` in `myTaskName.css` and `myTaskName.js` files (<b>myTaskName</b> is the name of task you are working and the CSS or JS should be given the project name-Just use your project name as CSS file name ). Every JavaScript file you should be witten within the  `DOMContentLoaded` `event`
     Example.
     ```js
-          windows.addEventListener('DOMConentLoaded', function(){
+          windows.addEventListener('DOMContentLoaded', function(){
             /**
               Add JavaScript here
             ***/
