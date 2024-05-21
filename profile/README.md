@@ -68,6 +68,7 @@ Visit https://github.com/MEDkids/.github to create `New Issue` regarding your ta
   - Add a title
   - Add a description : Explain what issue you are creating. Issues can be technical problems or your uncompleted task you want to keep track off  or an uncompleted feature on a task
   - Click `Submit new issue`
+Note: You are not allowed to close issue.
 ## Moving completed projects from staging to production
 
 WP staging is like our development branch and WP product is like our master branch
