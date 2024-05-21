@@ -44,9 +44,18 @@ Here are stpes to get started contributing to the project
     ```
     
   - For Custom CSS here is how we [class](https://rebeccaeverlenegroup.slack.com/files/U0450DR40FP/F06RNSP1C4B/20240327_124725.mp4?origin_team=T021ALT11NU&origin_channel=C020HQB61PF) elements to add custom styling or select for JavaScript.
+  
   - We follow Block Element Modifier (BEM) convention to give a class name to elements.[Read more on BEM](https://css-tricks.com/bem-101/)
   - Leave a comment within the CSS and JS to show start of code and to document your code.
   - <b> CSS UNITS: </b> All CSS units should be written in  `rem`, note `1rem = 16px`.
+  - Define
+    ```css
+          html {
+      font-size:16px;
+    }
+        
+    ```
+    on your custom CSS so we can ensure that 1rem = 16px
   - For Mobile Heading and Sub Heading subtract 0.75rems from the Desktop values, base text remains 1rem.
   - For Tablet Heading and Sub Heading subtract 0.5rems from the Desktop values, base text remains 1rem.
   - <strong>Assets</strong>: All Medkids assets are hosted at [MEDKids Image Hosting repository](https://github.com/MEDkids/images) do not host images directly in production or statging WordPress.
