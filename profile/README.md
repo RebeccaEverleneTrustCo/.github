@@ -30,7 +30,7 @@ Here are stpes to get started contributing to the project
   - Only the team lead is allowed to install or uninstall plugins or Themes. Reach out to team lead if you have to add or uninstall a theme or plugin
   - Design your web pages to be responsive for Mobile, Tablet and Desktop.
   - Use Custom `CSS & JS plugin` to write custom CSS and JavaScript.
-  - Create and write your custom `CSS and JavaScript` in `myTaskName.css` and `myTaskName.js` files (<b>myTaskName</b> is the name of task you are working and the CSS or JS should be given the project name-Just use your project name as CSS file name ). Every JavaScript file you should be witten within the  `DOMContentLoaded` `event`
+  - Create and write your custom `CSS and JavaScript` in `task-name.css` and `task-name.js` files (<b>task-name</b> is the name of task you are working on and the CSS or JS should be given the project name-Just use your project name as CSS file name ). Every JavaScript file you should be witten within the  `DOMContentLoaded` `event`
     Example.
     ```js
           windows.addEventListener('DOMContentLoaded', function(){
@@ -59,6 +59,7 @@ Here are stpes to get started contributing to the project
   - For Mobile Heading and Sub Heading subtract 0.75rems from the Desktop values, base text remains 1rem.
   - For Tablet Heading and Sub Heading subtract 0.5rems from the Desktop values, base text remains 1rem.
   - <strong>Assets</strong>: All Medkids assets are hosted at [MEDKids Image Hosting repository](https://github.com/MEDkids/images) do not host images directly in production or statging WordPress.
+  - Export all the images from the Figma task into a folder. Name folder with project name and separate spaces with `-` or `_` or both as the case may be.
   - Name assets exactly the way they are named in Figma file but with `underscore` when uploading to image storage. Use task name as a `prefix` before the asset name EG i am working on a task on <b>Big Energy Body</b>, i should name my file like this <b>Big_Ener_Body_`vector1`</b> `vector1` being the asset name.
   - <strong>Approval</strong>: Get approval from team leads before publishing to production.
 ## Issues
