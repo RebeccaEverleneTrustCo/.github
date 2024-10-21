@@ -24,6 +24,7 @@ Here are stpes to get started contributing to the project
   - Step 3: Get Invitation to Monday.com from Tamara where you can access the design files.
   - We have 2 <strong>WordPress</strong> sites, one is staging, for trying out ideas before is goes to production. Your approaved staging goes to production.
   - Step 4: Send your email for invitation to staging.
+  - Login to staging : [Staging](https://anatomyisland.org/medkidsstaging.infinityfreeapp.com/wp-admin)
   - Step 5: Accept invitation to staging, LOGIN and starting implimenting Figma designs in Wordpress staging.
   - If you are not familar with using WordPress for web design ,get started here [Begineers to WordPress Video Resource](https://www.youtube.com/watch?v=FMCR_7xVInk)
 ### Workflow
