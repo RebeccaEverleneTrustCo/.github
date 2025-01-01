@@ -61,7 +61,6 @@ Here are stpes to get started contributing to the project
   - For Tablet Heading and Sub Heading subtract 0.5rems from the Desktop values, base text remains 1rem.
   - <strong>Assets</strong>: All Medkids assets are hosted at [MEDKids Image Hosting repository](https://github.com/MEDkids/images) do not host images directly in production or statging WordPress.
   -  While linking to assets the link prefix should be `https://rebeccaeverlenetrustco.github.io/images/` followed by the `assets folder` followed by the `assets name` dot the extension. Example: `https://rebeccaeverlenetrustco.github.io/images/Nurse_Nurse_Playground/Nurse_Nurse_Playground_Vector.png` .
-  - 
   - Export all the images from the Figma task into a folder. Name folder with project name and separate spaces with `-` or `_` or both as the case may be.Next clone the [Medkids image respository here ](https://github.com/MEDkids/images), Add your folder with images and make pull request. Leave a message in the team slack for approval.
   - Name assets exactly the way they are named in Figma file but with `underscore` when uploading to image storage. Use task name as a `prefix` before the asset name EG i am working on a task on <b>Big Energy Body</b>, i should name my file like this <b>Big_Ener_Body_`vector1`</b> `vector1` being the asset name.
   - <strong>Approval</strong>: Get approval from team leads before publishing to production.
